@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the implementation of the K-Means clustering algorithm using Python. The objective was to analyse datasets by grouping similar data points into clusters and visualising the results.
+This project demonstrates the implementation of the K-Means clustering algorithm using Python. The project explores unsupervised machine learning by grouping similar data points into clusters and analysing the resulting patterns.
 
 ## Technologies Used
 
@@ -13,17 +13,21 @@ This project demonstrates the implementation of the K-Means clustering algorithm
 
 ## Features
 
-- Data preprocessing
-- K-Means clustering
+- Dataset analysis
+- K-Means clustering implementation
 - Cluster visualisation
-- Performance analysis
+- Performance evaluation
 
 ## Learning Outcomes
 
 - Unsupervised machine learning
-- Data analysis
-- Data visualisation
+- Data analysis and visualisation
 - Python programming
+- Clustering techniques
+
+## Documentation
+
+The complete project report is included in this repository.
 
 ## Author
 
